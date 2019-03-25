@@ -1,0 +1,14 @@
+{
+    "name": "ibrah/slim0319",
+    "description": "Projet utilisant le framework slim version 3",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.12"
+    },
+    "authors": [
+        {
+            "name": "ibrah",
+            "email": "ibrahima.traore@live.fr"
+        }
+    ]
+}
