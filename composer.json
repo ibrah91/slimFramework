@@ -3,7 +3,8 @@
     "description": "Projet utilisant le framework slim version 3",
     "type": "project",
     "require": {
-        "slim/slim": "^3.12"
+        "slim/slim": "^3.12",
+        "squizlabs/php_codesniffer": "^3.4"
     },
     "authors": [
         {
